@@ -1,0 +1,2 @@
+# chessnova
+chessnova-play chess
